@@ -17,7 +17,7 @@ body {
 
   .hero {
      background-color: #444;
-    background-image: url(./images/bg/bg1.jpg);
+    background-image: url(bg1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
