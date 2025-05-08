@@ -47,10 +47,10 @@ function startCountdown() {
 //   }, 3000);
   
 const slides = [
-    "./images/p1.jpg",
-    "./images/p2.jpg",
-    "./images/p3.jpg",
-    "./images/p4.jpg"
+    "p1.jpg",
+    "p2.jpg",
+    "p3.jpg",
+    "p4.jpg"
   ];
   
   let current = 0;
